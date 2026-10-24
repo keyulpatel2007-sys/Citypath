@@ -24,8 +24,11 @@ Build a route-finding application that calculates the shortest path between two 
 - [x] CP-003: Initialize Git and connect GitHub
 - [x] CP-004: Create initial folder structure
 - [x] CP-005: Create project log
-- [ ] CP-006: Write first C++ program
-- [ ] CP-007: Compile and run first C++ program
+- [x] CP-006: Write first C++ program
+- [x] CP-007: Compile and run first C++ program
+-[ ] CP-009: Represent locations and roads as a graph
+- [ ] CP-010: Implement Dijkstra's shortest-path algorithm
+- [ ] CP-011: Test route calculations
 
 ## Current Architecture
 - `cpp/`: C++ routing engine
